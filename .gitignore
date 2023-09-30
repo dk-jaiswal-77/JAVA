@@ -1,0 +1,39 @@
+# Compiled class files
+target/
+
+# Compiled Maven plugins
+.mvn/
+
+# IDE files
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse files
+.classpath
+.project
+.settings/
+
+# NetBeans files
+nb-configuration.xml
+
+# Javadocs
+target/site/apidocs/
+
+# Logs
+log/
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Maven Wrapper
+.mvn/wrapper/
+
+# Dependency directory (if you are using a tool like Ivy)
+ivy/
+
+# Environment-specific files
+.env
+.env.local
